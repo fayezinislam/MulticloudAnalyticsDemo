@@ -28,11 +28,11 @@ In this presentation, we seek to demonstrate the following: 1) GCP client levera
 ![image](https://user-images.githubusercontent.com/84876332/157295130-f8c9d8cd-c215-465e-95de-be5c06a0fcd2.png)
 
 ## Team Members
-* Fayezin Islam, Data Analytics CE
-* Mark Shay, Data Management CE
-* Ugo Obialo, AI/ML & Data Analytics CE
-* Ryan Verlin, KAD
-* Aaron Walters, FSR
+* fayezinislam
+* markshay
+* ugoobialo
+* rverlin
+* aaronwalters79
 
 ## Demo Access
 Contact fsi_multi_cloud_analytics_demo@ group for Demo access
